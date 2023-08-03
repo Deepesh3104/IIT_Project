@@ -60,7 +60,7 @@ $ pip install -r requirements.txt
 4. Run the application:
 
 ```bash
-$ python app.py
+$ python main.py
 ```
 
 ## Usage
@@ -72,7 +72,7 @@ To use the insurance fraud detection system, follow these steps:
 2. Run the application using the following command:
 
 ```bash
-$ python app.py
+$ python main.py
 ```
 
 3. The application will start, and you can interact with it via the provided interface.
