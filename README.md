@@ -8,7 +8,7 @@
 
 ## Overview
 
-This repository contains the code for an insurance fraud detection system using Machine Learning. The project is built by **Me and My Team** at the Indian Institute of Technology (IIT) Bhilai. The aim is to develop a model that can detect fraudulent insurance claims, helping insurance companies save costs and maintain a fair insurance environment.
+This repository contains the code for an insurance fraud detection system using Machine Learning. The project is built by **Deepesh** and **Deeksha Yadav** at the Indian Institute of Technology (IIT) Bhilai. We would like to express our gratitude to IIT Bhilai for providing us with this opportunity to work on such an impactful project.
 
 ## Table of Contents
 
@@ -99,4 +99,4 @@ For inquiries related to the use, licensing, or other matters regarding this cod
 
 ---
 
-Thank you for exploring our Insurance Fraud Detection with Machine Learning project. We, **Me and My Team**, hope this model can aid in identifying and preventing fraudulent insurance claims, making the insurance industry fairer and more efficient. If you have any questions or feedback, don't hesitate to get in touch! Happy detecting!
+Thank you for exploring our Insurance Fraud Detection with Machine Learning project. We, **Deepesh** and **Deeksha Yadav**, would like to extend our sincere gratitude to IIT Bhilai for giving us such a valuable opportunity to work on this project. We hope this model can aid in identifying and preventing fraudulent insurance claims, making the insurance industry fairer and more efficient. If you have any questions or feedback, don't hesitate to get in touch! Happy detecting!
