@@ -28,7 +28,9 @@ Insurance fraud is a significant problem in the industry, leading to financial l
 
 To run this project, you need the following dependencies:
 
-- Flask==2.3.2 or Flask==1.1.2
+- Flask==2.3.2
+- pymongo==4.4.1
+- bcrypt==4.0.1
 - scikit-learn==1.0.2
 - pandas==1.5.1
 - Python 3.10.11
