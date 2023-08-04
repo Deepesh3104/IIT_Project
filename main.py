@@ -169,9 +169,9 @@ def dashboard():
 def services():
     return render_template("services.html")
 
-@app.route('/login', methods=['GET','POST'])
-def login():
-    return render_template("login.html")
+@app.route('/login1', methods=['GET','POST'])
+def login1():
+    return render_template("login1.html")
 
 @app.route('/contact', methods=['GET','POST'])
 def contact():
